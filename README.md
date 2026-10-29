@@ -33,7 +33,7 @@ Análise da exigência do diferencial de alíquotas do ICMS das empresas optante
 
 O estudo examina, ainda, as repercussões da exclusão da modulação de efeitos e a incidência da prescrição quinquenal sobre eventuais pretensões de restituição.
 
-📄 Ler a nota técnica completa (PDF)
+[📄 Ler a nota técnica completa (PDF)](https://github.com/jmartiaga/artigos-juridicos/blob/main/Nota_Tecnica_DIFAL_Simples_Goias_JMArtiaga.pdf)
 
 ⸻
 
