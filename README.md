@@ -7,7 +7,7 @@ Direito Público aplicado às empresas · Direito Tributário · Direito Empresa
 
 ⸻
 
-Apresentação
+## Apresentação
 
 Este repositório reúne artigos, notas técnicas e estudos jurídicos de autoria de James Mendonça Artiaga, dedicados à análise de questões relevantes do Direito brasileiro.
 
@@ -19,11 +19,11 @@ Segurança jurídica para decisões estratégicas.
 
 ⸻
 
-Publicações
+## Publicações
 
-Direito Tributário
+### Direito Tributário
 
-ICMS-DIFAL do Simples Nacional em Goiás
+#### ICMS-DIFAL do Simples Nacional em Goiás
 
 Nota Técnica | 28 de outubro de 2026
 
